@@ -1,0 +1,3 @@
+_redirects
+/*    /index.html   200
+Add Netlify redirects file to fix 404 errors
